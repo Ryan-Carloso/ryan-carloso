@@ -16,7 +16,7 @@ Welcome to my GitHub Profile! I'm passionate about building innovative **iOS app
 
 ## 🛠️ Tech Stack  
 
-### **Tech Stack I Currently Use Most:**  
+### **Tech Stack I Currently Use the Most:**  
 - **🛢️ Database:** [Supabase](https://supabase.com/)  
 - **📱 Mobile Frontend:** [React Native](https://reactnative.dev/)  
 - **🌐 Web Frontend:** [Next.js](https://nextjs.org/)  
