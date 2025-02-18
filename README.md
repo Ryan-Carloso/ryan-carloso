@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Ryan!
 
-Welcome to my GitHub Profile! I'm passionate about building innovative **iOS apps** and exploring the latest technologies. With almost **3 years of development experience** across various projects, I love creating solutions that make an impact.  
+Welcome to my GitHub Profile! I'm passionate about building innovative **iOS apps** and exploring the latest technologies. With **2 years of development experience** across various projects, I love creating solutions that make an impact.  
 
 ### 🚀 About Me  
 - 🔭 I’m currently focused on developing **iOS apps**. Check them out here:  
@@ -10,7 +10,7 @@ Welcome to my GitHub Profile! I'm passionate about building innovative **iOS app
   - 📧 Email: **ryancarlos16@gmail.com**  
   - 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)  
 - ⚡ Fun fact: I love exploring new technologies, **finding better ways to develop**, and constantly learning!  
-- 💼 **Experience:** 2 years of experience with development in React Native, JavaScript ES-7+, Nodejs, Express, HTML, CSS, StyleSheet, Rest API, npm, yarn, Git, HTML, Supabase, Firebase and Google Cloud
+- 💼 **Experience:** React Native, JavaScript ES-6+, Nodejs, Express, HTML, CSS, StyleSheet, Rest API, npm, yarn, Git, HTML, Supabase, Firebase and Google Cloud
 
 ---
 
