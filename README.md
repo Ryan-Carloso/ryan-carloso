@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Ryan!
 
-Welcome to my GitHub Profile! I'm passionate about building innovative **iOS apps** and exploring the latest technologies. With **2 years of development experience** across various projects, I love creating solutions that make an impact.  
+Welcome to my GitHub Profile! I'm passionate about building innovative **iOS apps** and exploring the latest technologies. With **3 years of development experience** across various projects, I love creating solutions that make an impact.  
 
 ### 🚀 About Me  
 - 🔭 I’m currently focused on developing **Mobile apps**. Check them out here:  
