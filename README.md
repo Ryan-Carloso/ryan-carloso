@@ -22,7 +22,8 @@ Welcome to my GitHub Profile! I'm passionate about building innovative **iOS app
 - **🌐 Web Frontend:** [Next.js](https://nextjs.org/)  
 - **🖥️ Backend:** [Node.js](https://nodejs.org/)  
 - **🔥 Firebase:** [Firebase](https://firebase.google.com/)  
-- **MicrosoftAzure** [Azure](https://azure.com/)  
+- **MicrosoftAzure** [Azure](https://azure.com/)
+- **GItLab** [Gitlab](https://gitlab.com/ryancarlos16)
 
 
 ### **Other Technologies & Tools I Use:**  
