@@ -8,7 +8,8 @@ Welcome to my GitHub Profile! I'm passionate about building innovative **iOS app
 - 👯 I’m looking to collaborate with **Mobile Developers, Front-end Developers, and Node.js Developers**.  
 - 📫 How to reach me:  
   - 📧 Email: **ryancarlos16@gmail.com**  
-  - 💼 [LinkedIn](https://www.linkedin.com/in/ryancarlos/)  
+  - 💼 [LinkedIn](https://www.linkedin.com/in/ryancarlos/)
+  - - **GItLab** [Gitlab](https://gitlab.com/ryancarlos16)
 - ⚡ Fun fact: I love exploring new technologies, **finding better ways to develop**, and constantly learning!  
 - 💼 **Experience:** React Native, Nodejs, Express, HTML, CSS, StyleSheet, Rest API, npm, yarn, Git, HTML, Supabase, Firebase and Google Cloud
 
